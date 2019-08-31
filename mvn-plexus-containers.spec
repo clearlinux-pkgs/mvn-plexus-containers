@@ -4,7 +4,7 @@
 #
 Name     : mvn-plexus-containers
 Version  : 1.6
-Release  : 4
+Release  : 5
 URL      : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.6/plexus-component-annotations-1.6.jar
 Source0  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.6/plexus-component-annotations-1.6.jar
 Source1  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.5.4/plexus-component-annotations-1.5.4.pom
