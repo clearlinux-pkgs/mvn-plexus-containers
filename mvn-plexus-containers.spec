@@ -4,43 +4,47 @@
 #
 Name     : mvn-plexus-containers
 Version  : 1.6
-Release  : 5
+Release  : 6
 URL      : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.6/plexus-component-annotations-1.6.jar
 Source0  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.6/plexus-component-annotations-1.6.jar
-Source1  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.5.4/plexus-component-annotations-1.5.4.pom
-Source2  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5.jar
-Source3  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5.pom
-Source4  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.6/plexus-component-annotations-1.6.pom
-Source5  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.7.1/plexus-component-annotations-1.7.1.jar
-Source6  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.7.1/plexus-component-annotations-1.7.1.pom
-Source7  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-component-metadata/1.7.1/plexus-component-metadata-1.7.1.jar
-Source8  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-component-metadata/1.7.1/plexus-component-metadata-1.7.1.pom
-Source9  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-20/plexus-container-default-1.0-alpha-20.pom
-Source10  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-30/plexus-container-default-1.0-alpha-30.jar
-Source11  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-30/plexus-container-default-1.0-alpha-30.pom
-Source12  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-8/plexus-container-default-1.0-alpha-8.pom
-Source13  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/plexus-container-default-1.0-alpha-9-stable-1.jar
-Source14  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/plexus-container-default-1.0-alpha-9-stable-1.pom
-Source15  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-9/plexus-container-default-1.0-alpha-9.jar
-Source16  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-9/plexus-container-default-1.0-alpha-9.pom
-Source17  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-container-default/1.5.5/plexus-container-default-1.5.5.jar
-Source18  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-container-default/1.5.5/plexus-container-default-1.5.5.pom
-Source19  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-container-default/1.7.1/plexus-container-default-1.7.1.jar
-Source20  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-container-default/1.7.1/plexus-container-default-1.7.1.pom
-Source21  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-container-default/1.7/plexus-container-default-1.7.jar
-Source22  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-container-default/1.7/plexus-container-default-1.7.pom
-Source23  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-containers/1.0-alpha-20/plexus-containers-1.0-alpha-20.pom
-Source24  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-containers/1.0-alpha-30/plexus-containers-1.0-alpha-30.pom
-Source25  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-containers/1.0.3/plexus-containers-1.0.3.pom
-Source26  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-containers/1.5.4/plexus-containers-1.5.4.pom
-Source27  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-containers/1.5.5/plexus-containers-1.5.5.pom
-Source28  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-containers/1.6/plexus-containers-1.6.pom
-Source29  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-containers/1.7.1/plexus-containers-1.7.1.pom
-Source30  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-containers/1.7/plexus-containers-1.7.pom
+Source1  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.5.4/plexus-component-annotations-1.5.4.jar
+Source2  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.5.4/plexus-component-annotations-1.5.4.pom
+Source3  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.5.4/plexus-component-annotations-1.5.4.pom
+Source4  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5.jar
+Source5  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5.pom
+Source6  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.6/plexus-component-annotations-1.6.pom
+Source7  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.7.1/plexus-component-annotations-1.7.1.jar
+Source8  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.7.1/plexus-component-annotations-1.7.1.pom
+Source9  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-component-metadata/1.7.1/plexus-component-metadata-1.7.1.jar
+Source10  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-component-metadata/1.7.1/plexus-component-metadata-1.7.1.pom
+Source11  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-20/plexus-container-default-1.0-alpha-20.pom
+Source12  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-30/plexus-container-default-1.0-alpha-30.jar
+Source13  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-30/plexus-container-default-1.0-alpha-30.pom
+Source14  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-8/plexus-container-default-1.0-alpha-8.pom
+Source15  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/plexus-container-default-1.0-alpha-9-stable-1.jar
+Source16  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/plexus-container-default-1.0-alpha-9-stable-1.pom
+Source17  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-9/plexus-container-default-1.0-alpha-9.jar
+Source18  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-9/plexus-container-default-1.0-alpha-9.pom
+Source19  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-container-default/1.5.5/plexus-container-default-1.5.5.jar
+Source20  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-container-default/1.5.5/plexus-container-default-1.5.5.pom
+Source21  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-container-default/1.7.1/plexus-container-default-1.7.1.jar
+Source22  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-container-default/1.7.1/plexus-container-default-1.7.1.pom
+Source23  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-container-default/1.7/plexus-container-default-1.7.jar
+Source24  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-container-default/1.7/plexus-container-default-1.7.pom
+Source25  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-containers/1.0-alpha-20/plexus-containers-1.0-alpha-20.pom
+Source26  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-containers/1.0-alpha-30/plexus-containers-1.0-alpha-30.pom
+Source27  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-containers/1.0.3/plexus-containers-1.0.3.pom
+Source28  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-containers/1.5.4/plexus-containers-1.5.4.pom
+Source29  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-containers/1.5.5/plexus-containers-1.5.5.pom
+Source30  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-containers/1.6/plexus-containers-1.6.pom
+Source31  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-containers/1.7.1/plexus-containers-1.7.1.pom
+Source32  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-containers/1.7/plexus-containers-1.7.pom
 Summary  : No detailed summary available
 Group    : Development/Tools
 License  : Apache-2.0
 Requires: mvn-plexus-containers-data = %{version}-%{release}
+BuildRequires : apache-maven
+BuildRequires : buildreq-mvn
 
 %description
 No detailed description available
@@ -54,6 +58,7 @@ data components for the mvn-plexus-containers package.
 
 
 %prep
+%setup -q -n META-INF
 
 %build
 
@@ -62,94 +67,100 @@ mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-c
 cp %{SOURCE0} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.6/plexus-component-annotations-1.6.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.5.4
-cp %{SOURCE1} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.5.4/plexus-component-annotations-1.5.4.pom
+cp %{SOURCE1} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.5.4/plexus-component-annotations-1.5.4.jar
+
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.5.4
+cp %{SOURCE2} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.5.4/plexus-component-annotations-1.5.4.pom
+
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.5.4
+cp %{SOURCE3} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.5.4/plexus-component-annotations-1.5.4.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.5.5
-cp %{SOURCE2} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5.jar
+cp %{SOURCE4} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.5.5
-cp %{SOURCE3} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5.pom
+cp %{SOURCE5} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.6
-cp %{SOURCE4} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.6/plexus-component-annotations-1.6.pom
+cp %{SOURCE6} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.6/plexus-component-annotations-1.6.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.7.1
-cp %{SOURCE5} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.7.1/plexus-component-annotations-1.7.1.jar
+cp %{SOURCE7} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.7.1/plexus-component-annotations-1.7.1.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.7.1
-cp %{SOURCE6} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.7.1/plexus-component-annotations-1.7.1.pom
+cp %{SOURCE8} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.7.1/plexus-component-annotations-1.7.1.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-component-metadata/1.7.1
-cp %{SOURCE7} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-component-metadata/1.7.1/plexus-component-metadata-1.7.1.jar
+cp %{SOURCE9} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-component-metadata/1.7.1/plexus-component-metadata-1.7.1.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-component-metadata/1.7.1
-cp %{SOURCE8} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-component-metadata/1.7.1/plexus-component-metadata-1.7.1.pom
+cp %{SOURCE10} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-component-metadata/1.7.1/plexus-component-metadata-1.7.1.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.0-alpha-20
-cp %{SOURCE9} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.0-alpha-20/plexus-container-default-1.0-alpha-20.pom
+cp %{SOURCE11} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.0-alpha-20/plexus-container-default-1.0-alpha-20.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.0-alpha-30
-cp %{SOURCE10} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.0-alpha-30/plexus-container-default-1.0-alpha-30.jar
+cp %{SOURCE12} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.0-alpha-30/plexus-container-default-1.0-alpha-30.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.0-alpha-30
-cp %{SOURCE11} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.0-alpha-30/plexus-container-default-1.0-alpha-30.pom
+cp %{SOURCE13} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.0-alpha-30/plexus-container-default-1.0-alpha-30.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.0-alpha-8
-cp %{SOURCE12} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.0-alpha-8/plexus-container-default-1.0-alpha-8.pom
+cp %{SOURCE14} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.0-alpha-8/plexus-container-default-1.0-alpha-8.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1
-cp %{SOURCE13} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/plexus-container-default-1.0-alpha-9-stable-1.jar
+cp %{SOURCE15} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/plexus-container-default-1.0-alpha-9-stable-1.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1
-cp %{SOURCE14} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/plexus-container-default-1.0-alpha-9-stable-1.pom
+cp %{SOURCE16} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/plexus-container-default-1.0-alpha-9-stable-1.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.0-alpha-9
-cp %{SOURCE15} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.0-alpha-9/plexus-container-default-1.0-alpha-9.jar
+cp %{SOURCE17} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.0-alpha-9/plexus-container-default-1.0-alpha-9.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.0-alpha-9
-cp %{SOURCE16} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.0-alpha-9/plexus-container-default-1.0-alpha-9.pom
+cp %{SOURCE18} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.0-alpha-9/plexus-container-default-1.0-alpha-9.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.5.5
-cp %{SOURCE17} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.5.5/plexus-container-default-1.5.5.jar
+cp %{SOURCE19} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.5.5/plexus-container-default-1.5.5.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.5.5
-cp %{SOURCE18} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.5.5/plexus-container-default-1.5.5.pom
+cp %{SOURCE20} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.5.5/plexus-container-default-1.5.5.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.7.1
-cp %{SOURCE19} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.7.1/plexus-container-default-1.7.1.jar
+cp %{SOURCE21} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.7.1/plexus-container-default-1.7.1.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.7.1
-cp %{SOURCE20} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.7.1/plexus-container-default-1.7.1.pom
+cp %{SOURCE22} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.7.1/plexus-container-default-1.7.1.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.7
-cp %{SOURCE21} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.7/plexus-container-default-1.7.jar
+cp %{SOURCE23} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.7/plexus-container-default-1.7.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.7
-cp %{SOURCE22} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.7/plexus-container-default-1.7.pom
+cp %{SOURCE24} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-container-default/1.7/plexus-container-default-1.7.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-containers/1.0-alpha-20
-cp %{SOURCE23} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-containers/1.0-alpha-20/plexus-containers-1.0-alpha-20.pom
+cp %{SOURCE25} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-containers/1.0-alpha-20/plexus-containers-1.0-alpha-20.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-containers/1.0-alpha-30
-cp %{SOURCE24} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-containers/1.0-alpha-30/plexus-containers-1.0-alpha-30.pom
+cp %{SOURCE26} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-containers/1.0-alpha-30/plexus-containers-1.0-alpha-30.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-containers/1.0.3
-cp %{SOURCE25} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-containers/1.0.3/plexus-containers-1.0.3.pom
+cp %{SOURCE27} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-containers/1.0.3/plexus-containers-1.0.3.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-containers/1.5.4
-cp %{SOURCE26} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-containers/1.5.4/plexus-containers-1.5.4.pom
+cp %{SOURCE28} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-containers/1.5.4/plexus-containers-1.5.4.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-containers/1.5.5
-cp %{SOURCE27} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-containers/1.5.5/plexus-containers-1.5.5.pom
+cp %{SOURCE29} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-containers/1.5.5/plexus-containers-1.5.5.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-containers/1.6
-cp %{SOURCE28} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-containers/1.6/plexus-containers-1.6.pom
+cp %{SOURCE30} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-containers/1.6/plexus-containers-1.6.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-containers/1.7.1
-cp %{SOURCE29} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-containers/1.7.1/plexus-containers-1.7.1.pom
+cp %{SOURCE31} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-containers/1.7.1/plexus-containers-1.7.1.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-containers/1.7
-cp %{SOURCE30} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-containers/1.7/plexus-containers-1.7.pom
+cp %{SOURCE32} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-containers/1.7/plexus-containers-1.7.pom
 
 
 %files
@@ -157,6 +168,7 @@ cp %{SOURCE30} %{buildroot}/usr/share/java/.m2/repository/org/codehaus/plexus/pl
 
 %files data
 %defattr(-,root,root,-)
+/usr/share/java/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.5.4/plexus-component-annotations-1.5.4.jar
 /usr/share/java/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.5.4/plexus-component-annotations-1.5.4.pom
 /usr/share/java/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5.jar
 /usr/share/java/.m2/repository/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5.pom
